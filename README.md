@@ -3,10 +3,19 @@
 ### Contributor
 KizunaAI-Fan
 
-## Usage
-A tutorial for those who want to visit outside world.
+## Version
+* 2019/08/29, Ver. 0.1.0
 
-## Need Details and Contributors
-* 我比较懒，你们谁想写教程的可以联系我创建组
-  E-mail: qb201408@outlook.com
-* 这个账号可以用来发布粉丝站信息之类的
+## Usage
+
+* A tutorial for KizunaAI fans who want to visit outside world.
+
+* 本教程仅针对想要上日推或者油管的绊爱粉丝。
+
+* If you want to make a contribution, please email *qb201408@outlook.com* 
+
+* 若您能提供相关帮助，请电邮：*qb201408@outlook.com* 
+
+* Related Discussion Group: *QQ* : 716327137
+
+* 相关讨论组：*QQ*: 716327137
